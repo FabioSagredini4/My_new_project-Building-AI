@@ -1,4 +1,4 @@
-# Project Title
+# AI Food
 
 Final project for the Building AI course
 
