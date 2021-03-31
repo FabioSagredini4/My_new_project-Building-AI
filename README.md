@@ -11,6 +11,8 @@ the main idea is to create a tool of Ai system that can suggest what to eat or w
 
 Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
 
+The idea si to create a sort of serche engine with different filters that can match what you have in your fridge with recepies giving to you an idea of what to prepare for dinner/lunch. 
+
 This is how you make a list, if you need one:
 * problem 1: to everyone which don't have any idea of what to eat when they come back home after a fulld day at work.
 * problem 2: to everyone that have food intolerence or diet. 
