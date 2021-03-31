@@ -4,7 +4,7 @@ Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+the main idea is to create a tool of Ai system that can suggest what to eat or what kind of recipe to do based on the ingredients present in the fridge.
 
 
 ## Background
@@ -12,8 +12,8 @@ Describe briefly in 2-3 sentences what your project is about. About 250 characte
 Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
 
 This is how you make a list, if you need one:
-* problem 1
-* problem 2
+* problem 1: to everyone which don't have any idea of what to eat when they come back home after a fulld day at work.
+* problem 2: to everyone that have food intolerence or diet. 
 * etc.
 
 
